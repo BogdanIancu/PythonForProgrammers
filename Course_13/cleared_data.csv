@@ -1,0 +1,107 @@
+age,gender,hour,IMDB_rating,movie_name
+25,1,20,7.8,Inception
+30,0,22,8.2,Pulp Fiction
+22,1,19,6.5,Avatar
+28,0,21,7.1,Titanic
+40,1,18,6.9,The Shawshank Redemption
+35,0,20,8.5,The Godfather
+26,1,23,7.6,Fight Club
+31,0,21,7.3,The Dark Knight
+23,1,20,6.8,Forrest Gump
+29,0,22,7.0,The Matrix
+42,1,19,7.5,The Lord of the Rings: The Fellowship of the Ring
+34,0,20,7.9,Gladiator
+27,1,21,8.0,The Lion King
+24,1,22,6.7,Harry Potter and the Sorcerer's Stone
+28,0,20,8.1,Schindler's List
+39,1,21,7.2,Braveheart
+36,0,19,7.7,The Departed
+25,1,22,6.9,The Terminator
+29,0,21,7.5,Jurassic Park
+23,1,20,6.6,The Avengers
+37,0,19,7.8,Inglourious Basterds
+26,1,20,7.4,The Sixth Sense
+30,0,21,7.6,Django Unchained
+31,0,22,8.3,The Shawshank Redemption
+40,1,21,8.1,The Dark Knight Rises
+35,0,19,7.5,The Silence of the Lambs
+34,0,21,7.9,The Lord of the Rings: The Two Towers
+27,1,22,6.7,Iron Man
+33,0,20,6.8,Frozen
+24,1,19,8.8,Forrest Gump
+29,0,21,7.0,The Matrix Reloaded
+42,1,22,6.5,X-Men
+36,0,20,7.3,The Social Network
+25,1,19,8.1,Star Wars: Episode IV - A New Hope
+30,0,20,7.5,The Incredibles
+22,1,22,7.7,The Lion King
+28,0,20,7.6,Captain America: The Winter Soldier
+35,0,20,7.8,Gladiator
+26,1,19,6.9,I Am Legend
+31,0,22,8.5,The Godfather
+23,1,20,7.9,Thor
+29,0,21,7.2,Iron Man 3
+39,1,22,6.7,The Da Vinci Code
+36,0,20,7.5,The Departed
+25,1,21,8.0,Guardians of the Galaxy
+30,0,20,8.7,Schindler's List
+22,1,22,6.8,Mission: Impossible - Fallout
+28,0,21,6.5,Jurassic World
+40,1,20,7.2,Spider-Man: Homecoming
+35,0,19,8.8,The Lord of the Rings: The Return of the King
+26,1,20,7.7,Batman Begins
+31,0,21,7.9,Catch Me If You Can
+23,1,22,8.4,The Dark Knight Rises
+29,0,20,6.5,Pirates of the Caribbean: The Curse of the Black Pearl
+42,1,21,7.8,A Beautiful Mind
+36,0,22,7.4,The Bourne Identity
+25,1,20,7.6,The Hunger Games
+30,0,19,6.9,Inception
+22,1,21,8.1,Pulp Fiction
+28,0,22,7.9,Avatar
+35,0,21,8.5,The Shawshank Redemption
+26,1,22,7.0,The Godfather
+31,0,20,7.7,Fight Club
+23,1,21,7.6,The Dark Knight
+29,0,22,6.9,Forrest Gump
+39,1,20,7.2,The Matrix
+36,0,21,8.0,The Lord of the Rings: The Fellowship of the Ring
+25,1,22,6.8,Gladiator
+30,0,20,7.1,The Lion King
+22,1,21,7.8,Inglourious Basterds
+28,0,22,7.4,The Sixth Sense
+40,1,20,7.6,Django Unchained
+26,1,22,8.3,The Shawshank Redemption
+31,0,20,7.7,The Dark Knight Rises
+23,1,21,8.1,The Silence of the Lambs
+29,0,22,7.3,The Social Network
+36,0,21,7.9,The Lord of the Rings: The Two Towers
+25,1,22,6.7,Iron Man
+30,0,20,6.8,Frozen
+22,1,21,8.8,Forrest Gump
+28,0,22,7.0,The Matrix Reloaded
+40,1,20,6.5,X-Men
+35,0,21,7.3,The Social Network
+26,1,22,8.1,Star Wars: Episode IV - A New Hope
+31,0,20,7.5,The Incredibles
+23,1,21,7.7,The Lion King
+29,0,22,7.6,Captain America: The Winter Soldier
+36,0,21,7.8,Gladiator
+25,1,22,6.9,I Am Legend
+30,0,20,8.5,The Godfather
+22,1,21,7.9,Thor
+28,0,22,7.2,Iron Man 3
+40,1,20,6.7,The Da Vinci Code
+35,0,21,7.5,The Departed
+26,1,22,8.0,Guardians of the Galaxy
+31,0,20,8.7,Schindler's List
+23,1,21,6.8,Mission: Impossible - Fallout
+29,0,22,6.5,Jurassic World
+39,1,20,7.2,Spider-Man: Homecoming
+36,0,21,8.8,The Lord of the Rings: The Return of the King
+25,1,22,7.7,Batman Begins
+30,0,20,7.9,Catch Me If You Can
+22,1,21,8.4,The Dark Knight Rises
+28,0,22,6.5,Pirates of the Caribbean: The Curse of the Black Pearl
+40,1,20,7.8,A Beautiful Mind
+35,0,21,7.4,The Bourne Identity
